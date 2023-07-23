@@ -28,8 +28,8 @@ src:
     index.js: gọi đến component ./views/App.js và inject code html vào ../public/index.html
     reportWebVitals.js: Kiểm tra hiệu năng trang web online.
 .gitignore: ghi các file sẽ được đẩy và không được đẩy lên github.
-package-lock.json
-package.json
+package-lock.json: Ghi chi tiết các dependencies khi cài đặt các thư viện.
+package.json: Khai báo các thư viện.
 README.md
 
 **React Lifecycle Methods**
